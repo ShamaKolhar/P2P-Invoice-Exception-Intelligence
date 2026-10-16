@@ -1,0 +1,9 @@
+P2P Invoice Exception Intelligence - Data Quality Summary
+============================================================
+Total events: 1,595,923
+Total cases (PO items): 251,734
+Duplicate event rows (same case/activity/timestamp/resource): 209,283
+Events with out-of-range timestamp (outside 2017-01-01 - 2020-01-01): 97 (0.0061%) - flagged, not dropped
+
+Columns with null values:
+  (none)
